@@ -11,3 +11,5 @@
 Traversy/Udemy
 
 <a href="https://www.udemy.com/course/web-projects-with-vanilla-javascript/"> Link to tutorial</a>
+
+<a href="https://stackoverflow.com/questions/46155/whats-the-best-way-to-validate-an-email-address-in-javascript?page=1&tab=scoredesc#tab-top">Email Regex</a>
